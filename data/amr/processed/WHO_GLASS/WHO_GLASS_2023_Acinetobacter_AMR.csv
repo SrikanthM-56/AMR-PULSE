@@ -1,0 +1,9 @@
+Specimen,PathogenName,AntibioticName,Min,Q1,Median,Q3,Max,CTAsCount,TotalBCIsWithAST
+Bloodstream,Acinetobacter spp.,Amikacin,0.0,10.843373494,44.206773619,70.476190476,94.418604651,77,43102
+Bloodstream,Acinetobacter spp.,Colistin,0.0,0.978606393,3.851851852,8.26317716,47.540983607,46,15553
+Bloodstream,Acinetobacter spp.,Doripenem,14.814814815,33.703703704,48.794642857,59.007513066,63.262195122,4,994
+Bloodstream,Acinetobacter spp.,Gentamicin,0.0,27.698863636,54.435288415,67.289229751,96.875,83,44185
+Bloodstream,Acinetobacter spp.,Imipenem,0.0,31.325301205,65.330188679,81.818181818,100.0,73,42540
+Bloodstream,Acinetobacter spp.,Meropenem,0.0,23.138297872,60.0,76.349710443,98.742138365,79,43431
+Bloodstream,Acinetobacter spp.,Minocycline,0.251730648,3.416856492,7.106598985,21.621621622,81.818181818,13,12864
+Bloodstream,Acinetobacter spp.,Tigecycline,1.058201058,5.912698413,11.872836272,15.705128205,88.764044944,12,2839

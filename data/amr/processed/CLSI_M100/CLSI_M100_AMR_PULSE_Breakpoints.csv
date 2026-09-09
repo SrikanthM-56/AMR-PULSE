@@ -1,0 +1,26 @@
+Organism,CLSI_Group,Antibiotic,Drug_Class,MIC_S,MIC_SDD,MIC_I,MIC_R,Zone_S_mm,Zone_SDD_mm,Zone_I_mm,Zone_R_mm,Interpretation_Method,CLSI_Table,CLSI_Page,CLSI_Edition,Source_File
+Escherichia coli,Enterobacterales,Ampicillin,Penicillins,≤8,,16,≥32,≥17,,14–16,≤13,MIC + Disk diffusion,Table 2A,60,M100-Ed33,CLSI M100 PDF
+Escherichia coli,Enterobacterales,Cefepime,Cephems,≤2,4–8,,≥16,≥25,19–24,,≤18,MIC + Disk diffusion,Table 2A,63,M100-Ed33,CLSI M100 PDF
+Escherichia coli,Enterobacterales,Cefotaxime,Cephems,≤1,,2,≥4,≥26,,23–25,≤22,MIC + Disk diffusion,Table 2A,63,M100-Ed33,CLSI M100 PDF
+Escherichia coli,Enterobacterales,Ceftriaxone,Cephems,≤1,,2,≥4,≥23,,20–22,≤19,MIC + Disk diffusion,Table 2A,63,M100-Ed33,CLSI M100 PDF
+Escherichia coli,Enterobacterales,Ceftazidime,Cephems,≤4,,8,≥16,≥21,,18–20,≤17,MIC + Disk diffusion,Table 2A,64,M100-Ed33,CLSI M100 PDF
+Escherichia coli,Enterobacterales,Ciprofloxacin,Fluoroquinolones,≤0.25,,0.5,≥1,≥26,,22–25,≤21,MIC + Disk diffusion,Table 2A,68,M100-Ed33,CLSI M100 PDF
+Escherichia coli,Enterobacterales,Co-trimoxazole (trimethoprim-sulfamethoxazole),Folate pathway antagonists,≤2/38,,,≥4/76,≥16,,11–15,≤10,MIC + Disk diffusion,Table 2A,70,M100-Ed33,CLSI M100 PDF
+Escherichia coli,Enterobacterales,Colistin,Lipopeptides,≤2,,,≥4,,,,,MIC only,Table 2A,67,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Amikacin,Aminoglycosides,≤16,32,,≥64,≥17,,15–16,≤14,MIC + Disk diffusion (U designation),Table 2B-1,78,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Ciprofloxacin,Fluoroquinolones,≤0.5,1,,≥2,≥25,,19–24,≤18,MIC + Disk diffusion,Table 2B-1,78,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Colistin,Lipopeptides,≤2,,,≥4,,,,,MIC only,Table 2B-1,77,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Meropenem,Carbapenems,≤2,4,,≥8,≥19,,16–18,≤15,MIC + Disk diffusion,Table 2B-1,77,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Imipenem,Carbapenems,≤2,4,,≥8,≥19,,16–18,≤15,MIC + Disk diffusion,Table 2B-1,77,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Doripenem,Carbapenems,≤2,4,,≥8,≥19,,16–18,≤15,MIC + Disk diffusion,Table 2B-1,77,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Aztreonam,Monobactams,≤8,16,,≥32,≥22,,16–21,≤15,MIC + Disk diffusion,Table 2B-1,77,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Cefepime,Cephems,≤8,16,,≥32,≥18,,15–17,≤14,MIC + Disk diffusion,Table 2B-1,76,M100-Ed33,CLSI M100 PDF
+Pseudomonas aeruginosa,Pseudomonas aeruginosa,Ceftazidime,Cephems,≤8,16,,≥32,≥18,,15–17,≤14,MIC + Disk diffusion,Table 2B-1,76,M100-Ed33,CLSI M100 PDF
+Acinetobacter spp.,Acinetobacter spp.,Amikacin,Aminoglycosides,≤16,32,,≥64,≥17,,15–16,≤14,MIC + Disk diffusion,Table 2B-2,82,M100-Ed33,CLSI M100 PDF
+Acinetobacter spp.,Acinetobacter spp.,Colistin,Lipopeptides,≤2,,,≥4,,,,,MIC only,Table 2B-2,81–82,M100-Ed33,CLSI M100 PDF
+Acinetobacter spp.,Acinetobacter spp.,Doripenem,Carbapenems,≤2,4,,≥8,≥18,,15–17,≤14,MIC + Disk diffusion,Table 2B-2,81,M100-Ed33,CLSI M100 PDF
+Acinetobacter spp.,Acinetobacter spp.,Gentamicin,Aminoglycosides,≤4,8,,≥16,≥15,,13–14,≤12,MIC + Disk diffusion,Table 2B-2,82,M100-Ed33,CLSI M100 PDF
+Acinetobacter spp.,Acinetobacter spp.,Imipenem,Carbapenems,≤2,4,,≥8,≥22,,19–21,≤18,MIC + Disk diffusion,Table 2B-2,81,M100-Ed33,CLSI M100 PDF
+Acinetobacter spp.,Acinetobacter spp.,Meropenem,Carbapenems,≤2,4,,≥8,≥18,,15–17,≤14,MIC + Disk diffusion,Table 2B-2,81,M100-Ed33,CLSI M100 PDF
+Acinetobacter spp.,Acinetobacter spp.,Minocycline,Tetracyclines,≤4,8,,≥16,≥16,,13–15,≤12,MIC + Disk diffusion,Table 2B-2,82,M100-Ed33,CLSI M100 PDF
+Acinetobacter spp.,Acinetobacter spp.,Tigecycline,Glycylcyclines,,,,,,,,,No CLSI M100 breakpoint identified in Table 2B-2,Table 2B-2,81–82,M100-Ed33,CLSI M100 PDF
